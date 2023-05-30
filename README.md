@@ -1,4 +1,4 @@
-# Predictor Afluente de Energ
+# Predictor Afluente de Energía
 ___
 
 ## Introducción
